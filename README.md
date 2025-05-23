@@ -9,7 +9,7 @@ A modern and responsive web platform where users can explore, review, and share 
 
 ## 🌐 Live Website
 
-👉 [Visit BookReview Platform](https://book-review-ashwin.vercel.app/)
+👉 [Visit BookReview Platform](https://book-review-website-nmce.vercel.app/)
 
 ---
 
