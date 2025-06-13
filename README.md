@@ -108,7 +108,7 @@ BookReview-Platform-MERN-FE/
 #### Steps:
 
 ```bash
-git clone https://github.com/ashwinn-si/BookReview-Platform-MERN-BE.git
+git clone [https://github.com/kanu123-prog/Book-review-website]
 cd BookReview-Platform-MERN-BE
 npm install
 ````
@@ -146,7 +146,7 @@ Server will run on: `http://localhost:8000`
 ### 2️⃣ Frontend Setup
 
 ```bash
-git clone https://github.com/ashwinn-si/BookReview-Platform-MERN-FE.git
+git clone [https://github.com/kanu123-prog/Book-review-website]
 cd BookReview-Platform-MERN-FE
 npm install
 ```
